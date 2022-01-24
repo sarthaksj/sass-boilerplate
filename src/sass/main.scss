@@ -1,0 +1,28 @@
+@charset "UTF-8";
+
+@use "base";
+@use "utilities";
+@use "components";
+@use "layouts";
+@use "vendors";
+
+body {
+      background: var(--clr-primary-600);
+}
+
+// $primary-color: hsl(329, 100%, 63%);
+// $primary-heading: hsl(256, 89%, 7%);
+// $primary-text: hsl(256, 17%, 39%);
+// $primary-background: hsl(0, 0%, 100%);
+
+// $secondary-heading: hsl(256, 21%, 31%);
+// $secondary-color: hsl(78, 59%, 61%);
+
+// $modal-background: hsl(0, 0%, 100%);
+// $modal-heading: hsl(0, 0%, 0%);
+
+// $link-text: hsl(202, 97%, 47%);
+// $error: hsl(6, 90%, 54%);
+// $heading-background: #e3dfec;
+// $placeholder: #5b5273;
+// $table-heading: #797091;
